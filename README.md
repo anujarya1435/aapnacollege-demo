@@ -1,3 +1,3 @@
 # aapnacollege-demo
 this is my first repository
-author-Nitesh kumar
+Author-Nitesh kumar
